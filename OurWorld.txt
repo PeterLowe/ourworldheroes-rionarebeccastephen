@@ -1,6 +1,4 @@
-Compiled by Peter Lowe [PL]
-Compiled by Riona Kelly [RK]
-
+Compiled by Peter Lowe [PL], Riona Kelly [RK] and Stephen Arthur [SA]
 
 ++++++++++++++++++++++  Americas  ++++++++++++++++++++
 ---- United States of America [pl]
